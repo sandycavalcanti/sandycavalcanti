@@ -1,4 +1,4 @@
-<h1 align="center"> Hi There </h1>
+<h1 align="center" textcolor="red"> Hi </h1>
 <!--
 **sandycavalcanti/sandycavalcanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
