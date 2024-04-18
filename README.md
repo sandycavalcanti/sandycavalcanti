@@ -1,4 +1,4 @@
-### :sparkles:  :sparkles:
+## :sparkles: Sobre mim :sparkles:
 <!--
 **sandycavalcanti/sandycavalcanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
