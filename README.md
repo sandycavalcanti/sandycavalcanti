@@ -1,4 +1,4 @@
-<h1 align="center" textcolor="red"> Hi </h1>
+### :sparkles:  :sparkles:
 <!--
 **sandycavalcanti/sandycavalcanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
