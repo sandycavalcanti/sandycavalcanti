@@ -1,5 +1,9 @@
 ## :sparkles: Sobre mim :sparkles:
+
+Atualmente estou cursando Analise e Desenvolvimento ma Fatec Santana de Parnaíba.
+
 <!--
+
 **sandycavalcanti/sandycavalcanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
