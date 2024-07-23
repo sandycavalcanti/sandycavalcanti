@@ -1,6 +1,6 @@
 ## :sparkles: Sobre mim :sparkles:
 
-Atualmente estou cursando Analise e Desenvolvimento ma Fatec Santana de Parnaíba.
+Atualmente estou cursando Analise e Desenvolvimento na Fatec Santana de Parnaíba.
 
 <!--
 
